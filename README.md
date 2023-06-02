@@ -1,13 +1,4 @@
-<html>
-<head>
-    <title>.</title>
-</head>
-<body>
-    <center>
-        <img src="giphy.gif" width="600" height="400" />
-    </center>
-</body>
-</html>
+[!Programação](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educamaisbrasil.com.br%2Fcursos-e-faculdades%2Fsistemas-de-informacao%2Fnoticias%2Fparticipe-de-curso-gratuito-de-programacao-de-computadores&psig=AOvVaw1Zd6ACloYjSm_7aEezvQvj&ust=1685814780691000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCC3N6Tpf8CFQAAAAAdAAAAABAE))](https://www.behance.net/renataveras1/projects)
 
   
 - 👋 Hi, I’m @RenataVerasVenturim
