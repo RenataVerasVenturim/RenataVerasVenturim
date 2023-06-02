@@ -1,9 +1,14 @@
 <html>
-  <head><title></title></head>
-  <body>
-    <center><IMG SRC="giphy.gif" WIDTH=600 HEIGHT=400 </center>
-  </body>
+<head>
+    <title>.</title>
+</head>
+<body>
+    <center>
+        <img src="giphy.gif" width="600" height="400" />
+    </center>
+</body>
 </html>
+
   
 - 👋 Hi, I’m @RenataVerasVenturim
 - 👀 I’m interested in programming
