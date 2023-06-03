@@ -15,7 +15,7 @@
 
   <p><p><p align="center"><b>How to reach me:</b></p></p>
     <p align="center"><a href="https://www.linkedin.com/in/renata-veras-venturim-9604a0279/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="50" height="20" alt="LinkedIn"></a>
-    <p align="center"><a href="https://www.behance.net/renataveras1"><img src="https://static.vecteezy.com/system/resources/previews/008/385/603/original/behance-social-media-icon-symbol-element-illustration-free-vector.jpg" width="40" height="20" alt="Behance"></a>
+    <p align="center"><a href="https://www.behance.net/renataveras1"><img src="https://static.vecteezy.com/system/resources/previews/008/385/603/original/behance-social-media-icon-symbol-element-illustration-free-vector.jpg" width="40" height="30" alt="Behance"></a>
   
  
 </body>
