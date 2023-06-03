@@ -1,10 +1,9 @@
-  <p align="center">
+   <p align="center">
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r1wjuo4d3nfbfzfh9zam9qfrtjpznqp9vjhl0sr5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height="300" alt="GIF">
   </p>
   
-    
    <p align="center">  Projects:
-
+    
    <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172055869/Criacao-de-gerador-de-certificados-em-VBA">Gerador de certificados em VBA</a></BUTTON>
    <p> <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172055593/Criacao-de-geradores-de-contrato-simples-em-VBA">Gerador de contratos de locação em VBA</a></BUTTON>
    <p> <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172056441/Programa-de-envio-de-emails-em-massa-(cobranca)">Javascript para envio de e mails em massa (cobrança)</a></BUTTON>
@@ -16,7 +15,10 @@
     <p align="center"><a href="https://www.behance.net/renataveras1"><img src="https://static.vecteezy.com/system/resources/previews/008/385/603/original/behance-social-media-icon-symbol-element-illustration-free-vector.jpg" width="40" height="30" alt="Behance"></a>
   <br>
       <br>
-      --------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------
+ ![Estatísticas de linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=renataverasventurim&layout=compact)
+
 <p><p align="center"><b>SOME PROJECTS DETAILS:</b></a></p>
      
 <p align="center"><b>Gerador de certificados</b></a>
