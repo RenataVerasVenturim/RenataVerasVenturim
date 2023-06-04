@@ -8,6 +8,7 @@
    <p> <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172055593/Criacao-de-geradores-de-contrato-simples-em-VBA">Gerador de contratos de locação em VBA</a></BUTTON>
    <p> <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172056441/Programa-de-envio-de-emails-em-massa-(cobranca)">Javascript para envio de e mails em massa (cobrança)</a></BUTTON>
 <p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/relacionarempenhos2021/blob/main/README.md">Planilhar PDFs com Python e VBA</a></button>
+<p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/ExtratorPDFtoEXCEL">Planilhar PDFs com Python PDFQuery</button>
     </p></p>
 <br>
   <br>
@@ -74,7 +75,7 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
 <br>
      <br>
      --------------------------------------------------------------------------------------------------------------
-  <p align="center"><b>PLANILHAR NOTAS EM PDF</b></a>
+  <p align="center"><b>PLANILHAR NOTAS EM PDF com VBA</b></a>
   <p>O projeto consistiu em planilhar dados de todas as notas de empenho em PDF de 2020 e 2021. Para isso, utilizou-se o VBA e a biblioteca Pyautogui do Python. </p>
   <p>Como se tratava de uma vasta documentação em PDF, a utilização de um bot de movimentação do mouse facilitou as atividades repetitivas de conversão dos PDFs. Optou-se por fazer download de todos os PDFs e convertê-los para Excel via site EasyPDF e o bot fez as movimentações no mouse (vide gif abaixo) </p>
    
@@ -90,7 +91,20 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
   <p>Após isso, em "EMPENHOS2021-Consolidado" é acionado o botão de "Atualizar" que aciona macros que unificam as informações de todas as abas, conforme abaixo:</p>
 <br>
   <p><img src="https://im3.ezgif.com/tmp/ezgif-3-ed43b51d8e.gif">
-    
+     </p>
+     ------------------------------------------------------------------------------------------------------------------------
+
+   <p align="center"><b>EXTRATOR PDF PARA EXCEL com PYTHON</b></></P>
+<br>
+      <br>
+   <p align="center"> O objetivo do projeto é criar um mecanismo de extração de alguns dados de notas de empenho em .pdf e incluir os dados em uma planilha .xls de forma organizada . Optou-se por utilizar a biblioteca PDFquery no Jupyter .
+     <p align="center"> O primeiro passo é utilizar um seletor para ter as coordenadas de cada elemento que se deseja extrair. No caso: número da nota de empenho, nome E CNPJ do fornecedor, valor R$,  número do processo, fonte da despesa e natureza da despesa.    
+ <br>
+       <br>
+<image src="https://github.com/RenataVerasVenturim/RenataVerasVenturim/assets/129551549/0e35cc8b-b372-493c-85d9-09b49ee9c8ad">
+      
+<p> Após obter as coordenadas, executou-se o código de extração dos dados e inserção na planilha .xls </p>
+<img src="https://github.com/RenataVerasVenturim/ExtratorPDFtoEXCEL/assets/129551549/1ac28855-affb-428e-aee1-f9e59435c43f">
 
     
   
