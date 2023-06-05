@@ -53,7 +53,7 @@
   <BR><BR>
     --------------------------------------------------------------------------------------------------------------------------
   <P> 
-     <p align="center"><b>Enviar e mails de cobrança em massa via Sheets</b><i> - Send e mails in batch</i></></P>
+     <p align="center"><b>Enviar e mails de cobrança em massa via Sheets</b><i> - Send e mails in batch</i></P>
 <br>
       <br>
       
@@ -93,7 +93,7 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
   <p><img src="https://im3.ezgif.com/tmp/ezgif-3-ed43b51d8e.gif">
      </p>
      ------------------------------------------------------------------------------------------------------------------------
-
+<p>
      <p align="center"><b>EXTRATOR PDF PARA EXCEL com PYTHON</b><i> - PDF´s documents in Spreadsheet with Python</i></P>
 <br>
       <br>
