@@ -94,7 +94,7 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
      </p>
      ------------------------------------------------------------------------------------------------------------------------
 
-     <p align="center"><b>EXTRATOR PDF PARA EXCEL com PYTHON</b><i> - PDF´s documents in Spreadsheet with Python</i></></P>
+     <p align="center"><b>EXTRATOR PDF PARA EXCEL com PYTHON</b><i> - PDF´s documents in Spreadsheet with Python</i></P>
 <br>
       <br>
    <p align="center"> O objetivo do projeto é criar um mecanismo de extração de alguns dados de notas de empenho em .pdf e incluir os dados em uma planilha .xls de forma organizada . Optou-se por utilizar a biblioteca PDFquery no Jupyter .
