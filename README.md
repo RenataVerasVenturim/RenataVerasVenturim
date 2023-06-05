@@ -23,7 +23,7 @@
 
 <p><p align="center"><b>SOME PROJECTS DETAILS:</b></a></p>
      
-<p align="center"><b>Gerador de certificados</b></a>
+<p align="center"><b>Gerador de certificados em VBA</b><i> - Generator´s Certificates in VBA</i></a>
   <br>
   <p>O objetivo era desenvolver um gerador de certificados automático. Optou-se por utilizar o VBA no Excel de modo que , os cadastros de alunos pudessem ser puxados de uma planilha ou cadastrados manualmente no sistema. Após os cadastros, ao clicar em um botão, todos os certificados foram gerados e incluídos em uma pasta com o nome do aluno.</p>
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b69ae0172055869.647899dd444bb.jpg">
@@ -43,7 +43,7 @@
     <BR>
             --------------------------------------------------------------------------------------------------------------------------
       <P>
-        <p align="center"><b>Gerador de contratos de locação</b></a></P>
+        <p align="center"><b>Gerador de contratos de locação</b><i> - Generator´s Lease Agreement in VBA</i></a></P>
 <br>
     <p>O objetivo era criar um gerador de contratos de locação de modo a realizar o cadastro do inquilino e gerar o contrato e salvá-lo automaticamente com o nome deste na pasta "Contratos". Optou-se por criar via VBA no Excel.
     </p>
@@ -53,7 +53,7 @@
   <BR><BR>
     --------------------------------------------------------------------------------------------------------------------------
   <P> 
-    <p align="center"><b>Enviar e mails de cobrança em massa</b></></P>
+     <p align="center"><b>Enviar e mails de cobrança em massa via Sheets</b><i> - Send e mails in batch</i></></P>
 <br>
       <br>
       
@@ -75,7 +75,7 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
 <br>
      <br>
      --------------------------------------------------------------------------------------------------------------
-  <p align="center"><b>PLANILHAR NOTAS EM PDF com VBA</b></a>
+     <p align="center"><b>PLANILHAR NOTAS EM PDF com VBA</b><i> - Pdf´s documents in Spreadsheet with VBA</i></a>
   <p>O projeto consistiu em planilhar dados de todas as notas de empenho em PDF de 2020 e 2021. Para isso, utilizou-se o VBA e a biblioteca Pyautogui do Python. </p>
   <p>Como se tratava de uma vasta documentação em PDF, a utilização de um bot de movimentação do mouse facilitou as atividades repetitivas de conversão dos PDFs. Optou-se por fazer download de todos os PDFs e convertê-los para Excel via site EasyPDF e o bot fez as movimentações no mouse (vide gif abaixo) </p>
    
@@ -94,7 +94,7 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
      </p>
      ------------------------------------------------------------------------------------------------------------------------
 
-   <p align="center"><b>EXTRATOR PDF PARA EXCEL com PYTHON</b></></P>
+     <p align="center"><b>EXTRATOR PDF PARA EXCEL com PYTHON</b><i> - PDF´s documents in Spreadsheet with Python</i></></P>
 <br>
       <br>
    <p align="center"> O objetivo do projeto é criar um mecanismo de extração de alguns dados de notas de empenho em .pdf e incluir os dados em uma planilha .xls de forma organizada . Optou-se por utilizar a biblioteca PDFquery no Jupyter .
