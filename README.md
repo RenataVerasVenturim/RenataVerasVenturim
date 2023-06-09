@@ -1,12 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head><meta charset="utf-8"></head> 
    <p align="center">
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r1wjuo4d3nfbfzfh9zam9qfrtjpznqp9vjhl0sr5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height="300" alt="GIF">
   </p>
   
    <p align="center">  Projects:
     
-   <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172055869/Criacao-de-gerador-de-certificados-em-VBA">Gerador de certificados em VBA</a></BUTTON>
-   <p> <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172055593/Criacao-de-geradores-de-contrato-simples-em-VBA">Gerador de contratos de locação em VBA</a></BUTTON>
-   <p> <p align="center"><BUTTON><a href="https://www.behance.net/gallery/172056441/Programa-de-envio-de-emails-em-massa-(cobranca)">Javascript para envio de e mails em massa (cobrança)</a></BUTTON>
+   <p align="center"><button><a href="https://www.behance.net/gallery/172055869/Criacao-de-gerador-de-certificados-em-VBA">Gerador de certificados em VBA</a></button>
+   <p> <p align="center"><button><a href="https://www.behance.net/gallery/172055593/Criacao-de-geradores-de-contrato-simples-em-VBA">Gerador de contratos de locação em VBA</a></button>
+   <p> <p align="center"><button><a href="https://www.behance.net/gallery/172056441/Programa-de-envio-de-emails-em-massa-(cobranca)">Javascript para envio de e mails em massa (cobrança)</a></button>
 <p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/relacionarempenhos2021/blob/main/README.md">Planilhar PDFs com Python e VBA</a></button>
 <p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/ExtratorPDFtoEXCEL">Planilhar PDFs com Python PDFQuery</button>
     </p></p>
@@ -41,8 +44,9 @@
   <BR>
   <BR>
     <BR>
-            --------------------------------------------------------------------------------------------------------------------------
-      <P>
+    
+------------------------------------------------------------------------------------------------------------------
+   <P>
         <p align="center"><b>Gerador de contratos de locação</b><i> - Generator´s Lease Agreement in VBA</i></a></P>
 <br>
     <p>O objetivo era criar um gerador de contratos de locação de modo a realizar o cadastro do inquilino e gerar o contrato e salvá-lo automaticamente com o nome deste na pasta "Contratos". Optou-se por criar via VBA no Excel.
@@ -51,8 +55,9 @@
     <p>
      <img src="https://im3.ezgif.com/tmp/ezgif-3-5780552e6d.gif">
   <BR><BR>
-    --------------------------------------------------------------------------------------------------------------------------
-  <P> 
+   
+------------------------------------------------------------------------------------------------------------------
+   <P> 
      <p align="center"><b>Enviar e mails de cobrança em massa via Sheets</b><i> - Send e mails in batch</i></P>
 <br>
       <br>
@@ -74,8 +79,9 @@ O primeiro passo foi ter uma planilha no Sheets com os dados que constarão no e
 Com isso, se tornou possível o envio em massa de e mails personalizados para fornecedores via qualquer computador.</p>
 <br>
      <br>
-     --------------------------------------------------------------------------------------------------------------
-     <p align="center"><b>PLANILHAR NOTAS EM PDF com VBA</b><i> - Pdf´s documents in Spreadsheet with VBA</i></a>
+   
+------------------------------------------------------------------------------------------------------------------
+   <p align="center"><b>PLANILHAR NOTAS EM PDF com VBA</b><i> - Pdf´s documents in Spreadsheet with VBA</i></a>
   <p>O projeto consistiu em planilhar dados de todas as notas de empenho em PDF de 2020 e 2021. Para isso, utilizou-se o VBA e a biblioteca Pyautogui do Python. </p>
   <p>Como se tratava de uma vasta documentação em PDF, a utilização de um bot de movimentação do mouse facilitou as atividades repetitivas de conversão dos PDFs. Optou-se por fazer download de todos os PDFs e convertê-los para Excel via site EasyPDF e o bot fez as movimentações no mouse (vide gif abaixo) </p>
    
@@ -92,7 +98,9 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
 <br>
   <p><img src="https://im3.ezgif.com/tmp/ezgif-3-ed43b51d8e.gif">
      </p>
-     ------------------------------------------------------------------------------------------------------------------------
+   
+------------------------------------------------------------------------------------------------------------------
+   
 <p>
      <p align="center"><b>EXTRATOR PDF PARA EXCEL com PYTHON</b><i> - PDF´s documents in Spreadsheet with Python</i></P>
 <br>
