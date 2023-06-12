@@ -20,7 +20,7 @@
   <p><p><p align="center"><b>How to reach me:</b></p></p>
  
 
-<h3 align="center">Connect with me:</h3>
+
 <p align="center">
 <a href="https://linkedin.com/in/in/renata-veras-venturim-9604a0279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/renata-veras-venturim-9604a0279" height="30" width="40" /></a>
 <a href="https://instagram.com/@verasrenata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@verasrenata" height="30" width="40" /></a>
