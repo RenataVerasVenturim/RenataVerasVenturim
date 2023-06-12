@@ -22,7 +22,7 @@
 
 
 <p align="center">
-<a href=" https://www.linkedin.com/in/renata-veras-venturim-9604a0279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/renata-veras-venturim-9604a0279" height="30" width="40" /></a>
+<a href="https://br.linkedin.com/in/renata-veras-venturim-9604a0279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/renata-veras-venturim-9604a0279" height="30" width="40" /></a>
 <a href="https://instagram.com/@verasrenata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@verasrenata" height="30" width="40" /></a>
 <a href="https://www.behance.net/renataveras1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/renataveras1" height="30" width="40" /></a>
  <br>
