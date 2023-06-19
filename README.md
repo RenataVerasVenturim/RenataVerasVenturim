@@ -36,7 +36,8 @@
  
 <p><p align="center"><b>SOME PROJECTS DETAILS:</b></a></p>
 
-   <p text align="center">Calculadora de IRRF e Contribuição Social (2023) - Javascript</p>
+   <p text align="center">Calculadora de IRRF e Contribuição Social (2023) - Javascript 
+      <br><i>(Income Tax and Social Contribution Calculator (2023) - Javascript)</i></p>
 
 <ul><li>Mobile view</li></ul>
 <img src="https://workana.s3.amazonaws.com/portfolios/ih/841ba2a93dfb590c75012fee8d93326d/mobile.jpg?response-content-disposition=inline%3Bfilename%3D%22mobile.jpg%22&response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA33COQEVTJSIXHA73%2F20230619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230619T201811Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=afb51b81ccdc5d2bc85db49717b4c382c200779ef8041e7cfd42dd9498fedfea">
