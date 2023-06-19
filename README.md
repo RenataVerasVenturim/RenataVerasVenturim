@@ -12,7 +12,7 @@
    <p> <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Enviodeemailsemmassasheets">Javascript para envio de e mails em massa (cobrança)</a></button>
 <p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/relacionarempenhos2021/blob/main/README.md">Planilhar PDFs com Python e VBA</a></button>
 <p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/ExtratorPDFtoEXCEL">Planilhar PDFs com Python PDFQuery</button>
-   <p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/Teladelogin">Tela de login</button>
+   <p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/Calculadoradefolhapagamento">Calculadora de IRRF e contribuição previdenciária (base: MP 1.171/23)</button>
    
    </p> </p></p>
 <br>
@@ -130,7 +130,25 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
       
 <p> Após obter as coordenadas, executou-se o código de extração dos dados e inserção na planilha .xls </p>
 <img src="https://github.com/RenataVerasVenturim/ExtratorPDFtoEXCEL/assets/129551549/1ac28855-affb-428e-aee1-f9e59435c43f">
+ ------------------------------------------------------------------------------------------------------------------
+   <h1 text align="center">CALCULADORA DE DESCONTOS EM FOLHA - IRRF E CONTRIBUIÇÃO SOCIAL (2023)</h1>
 
+<p text align="center">Tabela de IRRF e contribuição social vigentes em 2023
+  
+</p>
+
+<img src="https://github.com/RenataVerasVenturim/Calculadoradefolhapagamento/assets/129551549/f2a19bc7-46da-404e-8d65-c5050c458177"></img>
+
+<a href="https://renataverasventurim.github.io/Calculadoradefolhapagamento/">Acessar projeto</a>
+
+<p>
+  <ul><br>Base legal consultada: <a href="https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2266365">MEDIDA PROVISÓRIA Nº 1.171, DE 30 DE ABRIL DE 2023</a>
+   <ul><br> Calculadora apresenta a base mais vantajosa para o usuário, com base no § 2º do Decreto: "Alternativamente às deduções de que trata o caput, poderá ser utilizado
+desconto simplificado mensal, correspondente a 25% (vinte e cinco por cento) do
+valor máximo da faixa com alíquota zero da tabela progressiva mensal, caso seja
+mais benéfico ao contribuinte, dispensadas a comprovação da despesa e a
+indicação de sua espécie." (NR)
+     
    ------------------------------------------------------------------------------------------------------------------
    <p align="center"><b>Tela de login (HTML e CSS)</b></p>
   <img src="https://github.com/RenataVerasVenturim/Teladelogin/assets/129551549/93ecdc49-e744-4fa2-8d5b-9e1e8d973704"></img>
