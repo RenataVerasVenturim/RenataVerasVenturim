@@ -137,7 +137,9 @@ Com isso, se tornou possível o envio em massa de e mails personalizados para fo
   
 </p>
 
-<img src="https://github.com/RenataVerasVenturim/Calculadoradefolhapagamento/assets/129551549/f2a19bc7-46da-404e-8d65-c5050c458177"></img>
+<img src="https://github.com/RenataVerasVenturim/Calculadoradefolhapagamento/assets/129551549/7c4bed97-7320-4f3a-8b0a-848a629f65d8">
+
+</img>
 
 <a href="https://renataverasventurim.github.io/Calculadora_de_pss_e_irrf_2023/">Acessar projeto</a>
 
