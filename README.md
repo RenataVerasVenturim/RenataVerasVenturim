@@ -5,19 +5,20 @@
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r1wjuo4d3nfbfzfh9zam9qfrtjpznqp9vjhl0sr5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height="300" alt="GIF">
   </p>
   
-   <p align="center">  Projects:
-    
-   <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Geradordecertificados">Gerador de certificados em VBA</a></button>
-   <p> <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Geradordecontratosdelocacao">Gerador de contratos de locação em VBA</a></button>
-   <p> <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Enviodeemailsemmassasheets">Javascript para envio de e mails em massa (cobrança)</a></button>
-<p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/relacionarempenhos2021/blob/main/README.md">Planilhar PDFs com Python e VBA</a></button>
-<p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/ExtratorPDFtoEXCEL">Planilhar PDFs com Python PDFQuery</button>
-   <p><p align="center"><button><a href="https://renataverasventurim.github.io/Calculadora_de_pss_e_irrf_2023/">Calculadora de IRRF e contribuição previdenciária (base: MP 1.171/23)</button>
+   <p align="center">  Projects:</p>
+
+   <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Calculadora_de_pss_e_irrf_2023">Calculadora de IRRF e contribuição previdenciária (base: MP 1.171/23)</button></p>
+   <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Geradordecertificados">Gerador de certificados em VBA</a></button></p>
+   <p> <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Geradordecontratosdelocacao">Gerador de contratos de locação em VBA</a></button></p>
+   <p> <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Enviodeemailsemmassasheets">Javascript para envio de e mails em massa (cobrança)</a></button></p>
+<p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/relacionarempenhos2021/blob/main/README.md">Planilhar PDFs com Python e VBA</a></button></p>
+<p><p align="center"><button><a href="https://github.com/RenataVerasVenturim/ExtratorPDFtoEXCEL">Planilhar PDFs com Python PDFQuery</button></p>
+   <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Calculadora_renda_fixa">Calculadora de Renda fixa</a></button></p>  
+   <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Tela_de_login">Tela de Login</a></button>
    
-   </p> </p></p>
-<br>
+   <br>
   <br>
-  <p><p><p align="center"><b>How to reach me:</b></p></p>
+  <p align="center"><b>How to reach me:</b></p></p>
  
 
 
