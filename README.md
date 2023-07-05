@@ -41,8 +41,8 @@
       <br><i>(Income Tax and Social Contribution Calculator (2023) - Javascript)</i></p>
 
 <ul><li>Mobile view</li></ul>
-<img src="https://workana.s3.amazonaws.com/portfolios/ih/841ba2a93dfb590c75012fee8d93326d/mobile.jpg?response-content-disposition=inline%3Bfilename%3D%22mobile.jpg%22&response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA33COQEVTJSIXHA73%2F20230619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230619T201811Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=afb51b81ccdc5d2bc85db49717b4c382c200779ef8041e7cfd42dd9498fedfea">
-</b>
+<p align="center"><img src="https://github.com/RenataVerasVenturim/Calculadora_de_pss_e_irrf_2023/assets/129551549/968b2153-3d2c-43f3-ba88-bee163ccf46e">
+</p>
 <p>
   <ul><br>Base legal consultada: <a href="https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2266365">MEDIDA PROVISÓRIA Nº 1.171, DE 30 DE ABRIL DE 2023</a></ul>
    <ul><br> Calculadora apresenta a base mais vantajosa para o usuário, com base no § 2º do Decreto: "Alternativamente às deduções de que trata o caput, poderá ser utilizado
