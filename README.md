@@ -8,6 +8,7 @@
    <p align="center">  Projects:</p>
 
    <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Calculadora_de_pss_e_irrf_2023">Calculadora de IRRF e contribuição previdenciária (base: MP 1.171/23)</button></p>
+      <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Google_Sheets_as_Database">Buscador que acessa dados de planilha no Drive</button></p>
    <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Geradordecertificados">Gerador de certificados em VBA</a></button></p>
    <p> <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Geradordecontratosdelocacao">Gerador de contratos de locação em VBA</a></button></p>
    <p> <p align="center"><button><a href="https://github.com/RenataVerasVenturim/Enviodeemailsemmassasheets">Javascript para envio de e mails em massa (cobrança)</a></button></p>
@@ -54,7 +55,19 @@ indicação de sua espécie." (NR)
   
 </p>
 ------------------------------------------------------------------------------------------------------------------
+<h1 align="center">Google Sheets como base de dados com Node.js <br><i>(Google Sheets as a Database with Node.js)</i></h1>
+ <p align="center"><a href="https://renataverasventurim.github.io/Interface_usuario/"><i>Acessar interface do usuário</i></a></p>
+ 
+ <p>Interface do usuário (HTML e CSS)</p>
+  <img src="https://github.com/RenataVerasVenturim/Google_Sheets_as_Database/assets/129551549/a40f6252-9051-44f4-ab70-80629ad8e832">
+  
+ 
+<p>O projeto consiste em diminuir demandas de e-mails de fornecedores que buscam informações sobre status de empenhos (liquidação e pagamento). O objetivo é utilizar a programação para fornecer acesso à informações via um buscador. A solução encontrada foi utilizar a base de dados já em uso que é a Planilha Google Sheets do Drive. O acesso se deu, em fase inicial, via servidor local utilizando npm express do node.js e autenticação do Google Cloud. Outra npm utilizada foi a googleapis.</p>
 
+<h2>Funcionamento</h2>
+<p>Requisição via Node.js , autenticação no Google Cloud e response via json com dados d3 toda a linha da planilha</p>
+<p><img src="https://s11.gifyu.com/images/ScgHI.gif" alt="" height="200px"></p>
+------------------------------------------------------------------------------------------------------------------
 <p align="center"><b>Gerador de certificados em VBA</b><i> - Generator´s Certificates in VBA</i></a>
   <br>
   <p>O objetivo era desenvolver um gerador de certificados automático. Optou-se por utilizar o VBA no Excel de modo que , os cadastros de alunos pudessem ser puxados de uma planilha ou cadastrados manualmente no sistema. Após os cadastros, ao clicar em um botão, todos os certificados foram gerados e incluídos em uma pasta com o nome do aluno.</p>
