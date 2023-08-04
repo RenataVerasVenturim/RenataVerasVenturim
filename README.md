@@ -66,7 +66,7 @@ indicação de sua espécie." (NR)
 
 <h2>Funcionamento</h2>
 <p>Requisição via Node.js , autenticação no Google Cloud e response via json com dados d3 toda a linha da planilha</p>
-<p><img src="https://s11.gifyu.com/images/ScgHI.gif" alt="" height="200px"></p>
+<p><img src="https://media2.giphy.com/media/pyHhg54LZ0WC9JQLoo/giphy.gif" alt="Projeto da Renata"></p>
 ------------------------------------------------------------------------------------------------------------------
 <p align="center"><b>Gerador de certificados em VBA</b><i> - Generator´s Certificates in VBA</i></a>
   <br>
