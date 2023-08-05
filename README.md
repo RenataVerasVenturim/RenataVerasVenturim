@@ -58,9 +58,8 @@ indicação de sua espécie." (NR)
 <h1 align="center">Google Sheets como base de dados com Node.js <br><i>(Google Sheets as a Database with Node.js)</i></h1>
  <p align="center"><a href="https://renataverasventurim.github.io/Interface_usuario/"><i>Acessar interface do usuário</i></a></p>
  
- <p>Interface do usuário (HTML e CSS)</p>
-  <img src="https://github.com/RenataVerasVenturim/Google_Sheets_as_Database/assets/129551549/a40f6252-9051-44f4-ab70-80629ad8e832">
-  
+  <p align="center"><img src="https://github.com/RenataVerasVenturim/RenataVerasVenturim/assets/129551549/0802a831-0806-452b-9eba-f3cd7f8dec11">
+  </p>
  
 <p>O projeto consiste em diminuir demandas de e-mails de fornecedores que buscam informações sobre status de empenhos (liquidação e pagamento). O objetivo é utilizar a programação para fornecer acesso à informações via um buscador. A solução encontrada foi utilizar a base de dados já em uso que é a Planilha Google Sheets do Drive. O acesso se deu, em fase inicial, via servidor local utilizando npm express do node.js e autenticação do Google Cloud. Outra npm utilizada foi a googleapis.</p>
 
