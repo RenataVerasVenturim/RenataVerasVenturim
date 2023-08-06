@@ -40,6 +40,7 @@
 
    <p text align="center">Calculadora de IRRF e Contribuição Social (2023) - Javascript 
       <br><i>(Income Tax and Social Contribution Calculator (2023) - Javascript)</i></p>
+      <p><a href="https://renataverasventurim.github.io/Calculadora_de_pss_e_irrf_2023/">visit the project</a></p>
 
 <ul><li>Mobile view</li></ul>
 <p align="center"><img src="https://github.com/RenataVerasVenturim/Calculadora_de_pss_e_irrf_2023/assets/129551549/968b2153-3d2c-43f3-ba88-bee163ccf46e">
